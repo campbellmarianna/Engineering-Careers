@@ -8,4 +8,4 @@
 
 Book Reading for Course: The Speed of Trust
 
-[DAY 1] The number sill in leadership is building trust.
+[DAY 1] The number one skill in leadership is building trust.
