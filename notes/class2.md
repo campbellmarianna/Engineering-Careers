@@ -2,7 +2,7 @@
 
 - see if you are cultural fit
 - how do work with other
-- say things appediately so people have time to prepare
+- say things immediately so people have time to prepare
 - STAR Strategy
   - Identify Action and Result Sign
   - Situation
@@ -17,11 +17,10 @@
 
   - You know a lot about yourself.
   - Your employer does not.
-
     - Your resume
     - How you show up
     - Signal to them what your saying
-      - spoke in front of 1,300 people and was told you've prepared enough
+      - spoke in front of 1,300 people and was told you've prepared enough now just focus on getting in
 
 - What signals can you send?
   - Confidence - keep hands out of your pocket, posture, attentive, listen, eye contact
@@ -38,7 +37,7 @@
 
 - PG - 13 response of what you do for phone or do on the weekend
 - This ground breaking
-  - Reach there new
+  - Reach there new something that really excites you
 
 ## What is an employer thinking?
 
@@ -54,14 +53,14 @@
   3. Political Affiliation
   4. Religion
   5. Medical health/illness
-  6. Dis
+  6. Disability
   - I don't feel comfortable answering that question because I don't believe it relates to my performance in this role
 
 # Candidate "Frame"
 
 1. Put the best foot forward
 2. Maximize perceived value
-3. Minimize
+3. Minimize perceived risk
 
 ## Analyzing Answers
 

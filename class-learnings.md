@@ -13,3 +13,7 @@ Book Reading for Course: The Speed of Trust
 [DAY 2] During a Behavioral Interview I want to put my best foot forward, maximize perceived and minimize perceived risk
 
 - [Framing Behavioral Interviewing](https://docs.google.com/presentation/d/1UzYmvtyJP7VrHkuAU7WcTt5LLEZ2CyofHw_in-h7kBk/edit#slide=id.g5c2e78bb1f_0_139)
+
+[DAY 3] Having Radical Candor makes you a good boss. You will learn the best lessons and make the greatest mistakes on the backs of other people so learn from your mistakes fast. (Paraphrase from Kim Scott video Radical Candor- The Suprising Secret to Being a Good Boss | First Round Review)
+
+- [Kim Scott 35 Million Dollar Learning Experience](https://www.kimmalonescott.com/biography/)
