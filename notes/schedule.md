@@ -13,3 +13,4 @@ Assignments:
   - Complete code review for Student 1 by Wednesday July 24
   - Complete code review for Student 2 by Tuesday July 30
 - Quiz: Study for Quiz on Monday by completing the slides
+- Scope the rest of required assignments that works for you and meets the details the day before they are due

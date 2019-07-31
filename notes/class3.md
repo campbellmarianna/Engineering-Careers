@@ -1,6 +1,8 @@
 # Leadership Models & Radical Candor
 
-Identify the Pros/Cons of each style:
+- I have a Democratic Leadership Style
+
+  Identify the Pros/Cons of each style:
 
 - Authoritarian/Autocratic: lead your team by offering firm, clear direction as well as useful feedback and meaningful motivation - this is what I want you to do, this is how I want you to do it, this is when I want it done
 
